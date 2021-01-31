@@ -1,1 +1,1 @@
-# Spring-Boot-Example
+# Spring-Boot-JPA-Example-Project
