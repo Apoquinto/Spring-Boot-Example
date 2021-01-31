@@ -1,3 +1,8 @@
 demo.iml
 mvnw
 mvnw.cmd
+target/classes/com/example/demo/model/User.class
+target/classes/com/example/demo/model/Movie.class
+target/classes/com/example/demo/Application.class
+src/main/resources/application.properties
+target/classes/application.properties
