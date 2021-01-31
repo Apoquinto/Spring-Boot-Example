@@ -6,3 +6,6 @@ target/classes/com/example/demo/model/Movie.class
 target/classes/com/example/demo/Application.class
 src/main/resources/application.properties
 target/classes/application.properties
+target/classes/com/example/demo/model/MovieRepository.class
+target/classes/com/example/demo/model/UserRepository.class
+target/classes/com/example/demo/model/UserService.class
